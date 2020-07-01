@@ -1,0 +1,1010 @@
+,job_title,company_name,location,salary,description
+1,Machine Learning Model Building (For OCR Tool),IIT Bombay,Mumbai,3000-5000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Work on data cleaning, pre-processing, and image collection
+2. Write well designed, testable, efficient code by using best software development practices
+4. Engage in Docker container creation and deployment
+5. Stay plugged into emerging technologies/industry trends and applying them to operations and activities
+6. Develop the next generation OCR technology to allow our users to generate line-wise bounding boxes for the scanned documents
+7. Develop an ML model to perform OCR on Indic languages (Sanskrit, Hindi, and Marathi)
+8. Occasionally work on the pipeline of OCR text correction to understand the ground scenario (converting scanned text to digital text with manual correction of OCRed text)
+9. Debug and resolve issues using open communities like Stack Overflow and GitHub"
+2,Deep Learning,IIT Bombay,Work From Home,2000-4000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Conducting research by implementing machine learning/deep learning models
+2. Handling management of dataset, training, testing, and analysis of models
+3. Reading and writing research papers
+4. Performing various experiments and analysis
+5. Writing technical reports
+6. Prototyping solutions
+7. Building systems around the deep learning models
+8. Building infrastructures for the deep learning-based systems
+9. Working on real-world problems and working with IITB Ph.D. students"
+3,Machine Learning,"Getboarded Technologies, LDA",Work From Home,2000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Working on code compliance for Python, NumPy, Tensorflow, and Keras 
+2. Building reusable code and libraries for future use and has sound logic to find the best coding practices and implementing them. 
+3. Ensuring a clear dependency chain in regards to the application logic and included components. 
+4. Optimizing applications for maximum speed and scalability 
+5. Working on Matplotlib for providing visualizations
+6. Programming and developing API using open source frameworks Django 
+7. Working on backend API development and Git versioning"
+4,Machine Learning,TorqueVision Labs LLC,Indore,5000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Working on computer vision, deep learning, and machine learning
+2. Working on libraries like Opencv, Keras, & Pandas"
+5,Communication,India Sanitation Coalition,Delhi,10000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1.    Support to the ISC Secretariat in conducting and execution of Annual ISC-FICCI Sanitation Awards and Support in organizing India Sanitation Conclave 
+2.    Work on logistics and other backend support to the ISC Secretariat in organizing other events like workshops and roundtables 
+3.    Support to ISC Secretariat in other day to day activities"
+6,Content Analysis,Sprinklr Private Limited,Bangalore,20000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Work on analyzing and preparing suitable data that is required for machine learning/AI models
+2. Work on understanding the model training structure and modify data accordingly
+3. Work on researching industry trends and best practices to prepare the data requirement framework
+4. Work closely with annotators from across the globe to ensure the quality of work
+5. Work on finding patterns to improve the data annotation quality which can, in turn, lead to model accuracy
+6. Work closely with product managers and data scientists to understand requirements and execute data preparation projects"
+7,Data Science,Solera Life Science Private Limited,Work From Home,4000-6000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Work on applied text mining/processing
+2. Work on natural language processing
+3. Work on training an ML model 
+4. Work on chatbots, sentiment extraction from text
+5. Make scrapers using Selenium, BS, and Scrapy"
+8,Data Analytics,Parliamentary Business,Delhi,5000 /month,Selected intern's day-to-day responsibilities include collecting data from other websites and maintaining them into database software.
+9,Business Strategy & Analytics,RedCarpetUp,Work From Home,20000-25000 /month,"As a business strategy and analytics intern, you will work with a team that is charged with linking technology to the business goal. This extends from increasing the profitability of existing product features to developing new features for our fintech product. 
+
+Selected intern's day-to-day responsibilities include:
+
+1. Work with senior executives to drive important strategy decisions
+2. Work with an engineering and data science counterpart
+3. Think of business problems and write code to analyze it
+4. Make sense out of raw data in databases"
+10,Machine Learning (AutoEncoder & Gans),Naaniz,Work From Home,1000 /month,"Our company is working with a lot of online restaurant partners. We need the intern to take relevant information while the order is progressed and segregate data into the various fields and send relevant SMS to the customer to grow the sale.
+
+Selected intern's day-to-day responsibilities include: 
+
+1. Implementing machine learning models for our new project
+2. Working with our core concept and taking it to the next level"
+11,Mobile App Development,PractoMind Solutions,Work From Home,2000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Work on Android application development and handling some applications
+2. Work on optimization
+3. Handle machine learning language training"
+12,Machine Learning,Codersarts,Gurgaon,10000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Designing and implementing machine learning, information extraction, probabilistic matching algorithms and models
+2. Using your passion for programming and deep learning/AI skills using Python, TensorFlow and deep learning frameworks like Keras, PyTorch - to solve real-life problems
+3. Developing AI solutions in the computer vision domain using convolutional neural networks (CNN) and a combination of deep neural networks such as CNN & RNN
+4. Solving object detection, recognition, image classification problems using machine learning and deep learning algorithms & transfer learning methods and techniques
+5. Using innovative & automated approaches for data annotation, labeling, and data augmentation & use active learning.
+6. Handling online code assistance, code mentoring, and education-based solutions"
+13,Data Analytics,SagasIT Analytics,Work From Home,18000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Work on live customer projects using one or more of Python, R, Tableau, and Power BI. This includes data engineering, data science and data visualization
+2. Demonstrate an ability to understand and appreciate data 
+3. Understand the domain that the customer operates in
+4. Handle any other work that is necessary for the project/organization including learning other visualization tools"
+14,Data Science,Blackcoffer,Work From Home,3000-8000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Work on data technologies, data mining, data transformation, and data analysis 
+2. Develop data models on Python, web scrapers, crawler, parser, etc. to solve big data problems
+3. Develop data technologies like web crawlers, parser, and scrapers to solve the toughest problem of the world
+4. Work on sentiment analysis, data scraping, parsing, and web mining 
+5. Work on ELT, ETL, data integration, data lake management, and analysis"
+15,Data Analytics,Prashaste Education And Management Consultancy Private Limited,Hyderabad,12000-15000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Work on executing multiple client engagements as part of a team
+2. Work on managing and analyzing large datasets and generate business insights
+3. Build expertise in various client offerings across multiple sectors
+4. Work on contributing to the internal learning and mentorship programs
+5. Work on generating MIS, analytics and trackers for income
+6. Work on outstanding, collection, payments, reconciliation of reimbursements received and paid, raising of invoices and follow up with clients for payments, reconciliation of claims/invoices of vendors, associates and employees"
+16,Software Development & Data Anlaytics,iTech Mission Private Limited,Delhi,10000-10001 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Design and develop open-source applications with smart algorithms to manage development databases  
+2. Working on Javascript, JQeyry, D3.js and other advance data visualizations tools
+3. Learn and work on MVC frameworks - Laravel, Express.js, Vue.js
+4. Use SQL and No-SQL languages
+5. Create APIs, data binding"
+17,Data Analysis (Advance Excel),Tarezameenfoundation,Work From Home,Unpaid,"Selected intern's day-to-day responsibilities include: 
+
+1.     Keep good documentation practice and follows the compliance guidelines
+2.     Develop and implement training materials and job aids for responsible areas
+3.     Develop and present educational master data topics to the business
+4.     Develop and present ideas to cross-functional teams and varying levels within the organization
+5.     Participate and lead some activities in problem-solving and continuous improvement projects
+6.     Lead master data activities for small to medium scale projects
+7.     Support master data activities for large scale projects
+8.     Demonstrate ability to coach peers on processes
+9.     Perform regularly scheduled or one-off audits
+10.     Demonstrate accurate decision-making skills
+11.     Perform testing in the quality environment of ERP/CRM system prior to execution in production
+12.     Work in multiple systems to audit data and execute required updates
+13.     Analyze mass data effectively and efficiently
+14.     Form conclusions from data analysis
+15.     Communicate effectively simple solutions for business inquiries regarding area
+16.     Process requests in a timely manner according to defined standards, controls, or metrics"
+18,Data Research Analytics,Nirvana Solutions India Private Limited,Work From Home,18000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Working on excel sheets
+3. Interacting with US clients 
+4. Working on data analytics"
+19,Embedded Systems and IoT,iobot Technologies Private Limited,Pune,5000-8000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Work on embedded firmware development in C/C++
+2. Understand and architecture right solution for the problem
+3. Work on Arduino/ESP32/STM32 firmware development
+4. Document all the activities of the firmware development"
+20,Business Analytics,UniConverge Technologies Private Limited,Noida,2000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Work on understanding and analysis of company's business
+2. Suggest new strategies to capture market post covid 19 situations
+3. Study of competitors strategy
+4. Talk to various clients to validate strategy"
+21,Machine Learning,Stir Research,Work From Home,1000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Working on carrying out regression modelling (multiple regression, decision trees) on the given dataset
+2. Working on a convolutional neural network for the given dataset
+3. Working on preparing a thorough report"
+22,Data Science,BoredProgrammers Private Limited,Work From Home,1000-6000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Serve your clients as needed, solve the problems
+2. Teach online for workshops and training"
+23,Machine Learning,COGAI Solutions Private Limited,Work From Home,8000-12000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Building LSTM/BERT/CNN models using Tensorflow/PyTorch
+2. Building the data pipeline using the Spark/MongoDB 
+3. Being able to deploy the models in the QA environment
+4. Working with the FrontEnd developers in integrating your APIs"
+24,Business Analytics,IODevOps Services Incorporated,Work From Home,5000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Participate in interviewing clients in order to identify and validate business needs and requirements 
+2. Participate in requirements workshops to identify business needs and requirements 
+3. Document current business processes, rules, etc.
+4. Understand client requirements
+5. Assess business requirements and prepare FSD, BSD"
+25,Machine Learning,TikiLIVE,Work From Home,12000 /month,"Selected intern's day-to-day responsibilities include: 
+1. Running machine learning tests and experiments
+2. Implementing appropriate ML algorithms
+3. Working in a team to come up with quick and best solutions"
+26,Data Analytics-Product And Growth,Farmley,Work From Home,15000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Reaching out to early users over social media platforms and offline events for gathering product learnings and feedback
+2. Ideating growth hacks to engage the community users and expanding the communities
+3. Working with the founding team to help them make the initial launch mega hit"
+27,Data Science,Promize IT Services Private Limited,Work From Home,5000 /month,Selected intern's day-to-day responsibilities include working on real-time project tasks to get real-time project exposure.
+28,Financial Analytics,Iris Business Services Limited,Mumbai,10000-15000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Work on tagging of financial statements
+2. Work on report generation"
+29,Data Science,Kashware,Work From Home,15000-25000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions
+2. Assess the effectiveness and accuracy of new data sources and data gathering techniques
+3. Extract, harmonize, clean and merge data from different data sources for further use
+4. Develop custom data models and algorithms to apply to data sets
+5. Build machine learning solutions to drive optimization and improvement in product and business strategies
+6. Develop processes and tools to monitor and analyze model performance and data accuracy"
+30,Subject Matter Expert (Data Science),MyMegaminds,Work From Home,10000-15000 lump sum,"Selected intern's day-to-day responsibilities include: 
+
+1. Working on creating new projects for students on our platform based on Data Science helping them understand concepts, and polishing their skills
+2. Working on solving doubts of the students related to Data Science over emails"
+31,Machine Learning (AI for Augmented Reality),Highavenue,Work From Home,10000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Working on video processing & 3D object detection algorithms
+2. Working on a system that can be integrated into the Unity 3D engine
+3. Collecting data related to our physical world"
+32,Define Automation Workflow,Radar Services LLC,Work From Home,10000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Creating process workflow for advanced simulation services like    Finite element analysis', 'Fracture analysis' etc. 
+2. Evaluating various services vendors to establish a quality score for the vendors. 
+3. Creating demo analysis problems for such simulation services"
+33,Data Science,FlexiEle,Work From Home,15000 /month,"Selected intern's day-to-day responsibilities include working on a data science project where we need to extract meaningful information from structured or unstructured data.
+
+Based on the raw data, we need to:
+
+1. Design and implement Data frames for our BI application (business intelligence)
+2. Generate meaningful dashboard using Pandas and Plotly
+3. Define Dimensions, Facts, and Measures from the raw data
+4. Allow users to slice and dice data in different dimensions dynamically
+
+Skills: Candidates have to be very good at Python, Pandas, Numpy, and Plotly.js for data visualizations."
+34,Online Teaching (Machine Learning & Artificial Intelligence),iCodeiCreate,Work From Home,10000 /month,Selected intern's day-to-day responsibilities include teaching machine learning and artificial intelligence using Python to school students.
+35,Online Teaching (Python & Data Science),iCodeiCreate,Work From Home,10000 /month,Selected intern's day-to-day responsibilities include teaching Python and data science to school students.
+36,Business Analytics,Arzooo,Bangalore,15000 /month,"Selected intern's day-to-day responsibilities include interpreting data from different sources, analyze data, and communicate how to apply findings to the business models and needs for the company. 
+
+Your interpretation of the data will require interaction with other teams to understand what the sources of data are, how this data might affect the business and its processes, and what problems are being solved by drawing conclusions from the data that has been collected.
+
+Requirements:
+
+1.  Attention to detail and accuracy while solving all assigned inquiries
+2.  Good with small as well as large data sets
+3.  Proficiency in MS-Excel, Data Analytics, Power BI/Tableau
+4.  Ability to relate to clients and various types of users to learn new business processes
+5. Ability to provide process and automation improvements
+6.  E-commerce industry knowledge will have an edge
+7.  Assist in resolving business issues using systems and data
+8.  Perform research and analysis in support of operations
+9.  Analyze business goals, objectives, and needs"
+37,Data Science,LocoBuzz,Work From Home,4000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Working on machine learning, especially NLP information retrieval, etc.
+2. Working with popular data science frameworks- Python, Jupyter, sklearn, NLTK, (XGBoost, and Keras are good to have).
+3. Implementing ready background in deep learning techniques like word embeddings, CNN, RNN/LSTM, etc.
+4. Productionizing machine learning solutions, especially ML-powered web-apps/BOTs
+5. Understanding back-end concepts, and databases (SQL, Postgres, NoSQL, etc.)
+6. Working with different Machine learning/deep learning projects
+7. Working with structured and unstructured data
+8. Working with data structures and algorithms and in a Unix environment and building robust data processing system"
+38,Data Analytics,Connect And Heal,Mumbai,18000-21000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Making MS-Excel based reporting for management and clients
+2. Assisting the finance teams with data MIS requirements
+3. Acting as an internal process engineer to improve the overall efficiency of various divisions
+4. Assisting in creating power point proposals for corporate clients"
+39,Data Analytics,Algowire Trading Technologies Private Limited,Work From Home,10000-20000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Improving/enhancing the models for pricing
+2. Presenting complex statistical concepts and research results to non-statistical audience"
+40,Research - Images,Nettv4u,Work From Home,5000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. We need Interns who can find Indian celebrities (Can be actors/actress/Dubbing artist/Anchors etc. We need the Serials & Shows that we dont have
+2. We need their exact name and images in a word file and submitted to us
+3. You will have to research for 1000 celebs and give us in 1 month.
+4. Need to be sure we the names we give you those exact celebs you will find an HD image
+Do not apply if you are already working with us in other jobs"
+41,Research - Images,Nettv4u,Work From Home,5000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. We need Interns who can find Indian celebrities (Can be actors/actress/Dubbing artist/Anchors etc. We need the Serials & Shows that we dont have
+2. We need their exact name and images in a word file and submitted to us
+3. You will have to research for 1000 celebs and give us in 1 month.
+4. Need to be sure we the names we give you those exact celebs you will find an HD image
+Do not apply if you are already working with us in other jobs"
+42,Machine Learning,KUKbit Software Lab,Pune,4000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Analyzing data, developing predictive algorithms, designing, and recommending code algorithms using
+advanced machine learning algorithms
+2. Designing, developing, and testing sales recommendation solutions
+3. Performing explanatory data analysis
+4. Preparing and analyzing data & identifying patterns"
+43,Business Analytics,Stirring Minds,Work From Home,5000-10000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Working on analyzing companies' data and driving meaning out of the data after plotting the same across dashboards
+2. Work using various software tools that we use to measure our KPIs"
+44,Data Analytics,Nuclei Technologies,Work From Home,2000-5000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Work on assisting in curating an online course
+2. Work on solving problems faced by students
+3. Work on understanding the implementation of this course"
+45,Machine Learning,Nuclei Technologies,Work From Home,2000-5000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Work on assisting in curating an online course for machine learning
+2. Work on solving problems faced by students as a teaching assistant
+3. Work on understanding the implementation of the course"
+46,Data Analytics & Social Media Marketing,ONergy,Kolkata,8000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Analyzing various databases
+2. Shortlisting target audiences
+3. Working on WhatsApp and social media marketing of the shortlisted databases
+4. Researching different customer segments
+5. Promoting COVID care products"
+47,Artificial Intelligence and Machine Learning,Oye Busy Technologies Private Limited,Work From Home,3000 /month,"Selected intern's day-to-day responsibilities include working on training, fine-tuning, and deploying NLP and Computer Vision algorithms for text to speech, speech to text, scene description, visual question answering, and other ML tasks."
+48,Business Analytics,Only4rental.in,Work From Home,2000 /month,"- Evaluating business processes, anticipating requirements, uncovering areas for improvement, and developing and implementing solutions.
+- Leading ongoing reviews of business processes and developing optimization strategies.
+- Staying up-to-date on the latest process and IT advancements to automate and modernize systems.
+- Conducting meetings and presentations to share ideas and findings.
+- Performing requirements analysis.
+- Documenting and communicating the results of your efforts.
+- Effectively communicating your insights and plans to cross-functional team members and management.
+- Gathering critical information from meetings with various stakeholders and producing useful reports.
+- Working closely with clients, technicians, and managerial staff.
+- Providing leadership, training, coaching, and guidance to junior staff.
+- Allocating resources and maintaining cost efficiency.
+- Ensuring solutions meet business needs and requirements.
+- Performing user acceptance testing.
+- Managing projects, developing project plans, and monitoring performance.
+- Updating, implementing and maintaining procedures.
+- Prioritizing initiatives based on business needs and requirements.
+- Serving as a liaison between stakeholders and users.
+- Managing competing resources and priorities.
+- Monitoring deliverable's and ensuring timely completion of projects."
+49,Computer Vision/Machine Learning,Kontiki Innovation Labs,Work From Home,10000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Developing prototypes using Human Pose models
+2. Working on Python, OpenCV, TensorFlow, Postnet, etc
+3. Researching, analyzing and coding in ML; Integrate them with existing apps"
+50,Risk Analytics,Open,Bangalore,30000 /month,"Selected intern's day to day responsibilities include:
+
+1. Monitor online and offline transactions and report patterns of fraudulent activities
+2. Work on merchant risk assessment
+3. Work closely with other teams, such as customer support, to better address risk related queries of end-users
+
+Education:
+MBA in Operations (must)
+(This is a fulltime role, only those who completed an MBA can apply).
+
+Experience:
+Fresher- 6 months 
+Location :
+RGA Techpark, Bangalore"
+51,Machine Learning,Tawi Tech Solutions,Work From Home,4000 lump sum,"IMAGE PROCESSING/MACHINE LEARNING FOR AUTOMATED EXTRACTION OF INVOICE DATA
+
+The AI & Robotics Division of Tawi Tech Solutions is looking for an intern to develop an automated invoice processing system to process data contained in .jpeg images and, put it in a searchable and indexable format.
+
+The problem is challenging due to non-standard invoice formats and, the presence of both handwritten and computer-typed texts.
+
+TASKS: 
+
+1. Pre-processing such as edge detection, bounding box calculation, high frequency and low-frequency noise elimination, de-skew, distortion elimination, glare removal, thinning, locally adaptive thresholding and so on using python, Tesseract/tesserOCR, openGL
+2. Develop and implement table structure extraction algorithms
+3. develop and implement machine learning algorithms using neural network implementations in Tesseract/tesserOCR
+4. Post-classification processing such as incorporation of heuristics, Bayesian likelihood dictionaries and dictionaries to improve overall classification accuracy
+
+TTS will provide a GitHub set-up.
+
+The internship is expected to last 4-5 months.
+
+TTS will issue a training completion certificate and write a letter of recommendation. and issue a remuneration of INR4K if the delivery meets targets agreed during the course of the internship."
+52,Data Science/ML,Centre For Computational  Technologies Private Limited,Work From Home,8000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Working on data science algorithms and AI concepts 
+2. Using Python or R for web scraping 
+3. Building AI models using Python, machine learning, and deep learning algorithms 
+4. Processing of unstructured/structured data"
+53,Social Media Analyst,Adhyayan Foundation,Work From Home,Unpaid,"Selected intern's day-to-day responsibilities include: 
+
+1. Promote social media growth in time bound manner 
+2. Prepare a report on a personality-specific social media
+3. Analyze social media account & suggest better options"
+54,Power BI Development,Think Analytics India Private Limited,Mumbai,25000 /month,"Roles & Responsibilities:
+
+1. Work on business requirement analysis
+2. Work on effort estimation for end-to-end Power BI deployment basis business requirement
+3. Work on data modeling, fact & dimension design
+4. Design & implementation of Power BI reports
+5. Define test cases/user stories for Power BI reports
+6. Work on role assignment for role-level access to Power BI reports"
+55,Scala Development,Teknuance Info Solutions,Chennai,8000-10000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Understand the architecture and guide the Data engineering team on the best solution to a problem
+2. Devise solutions from a technology perspective on big data technologies like Apache Hadoop, MapReduce
+3. Work closely with the different teams to understand and meet business needs through the appropriate design and implementation of the data model(s)"
+56,Data Analytics,Teknuance Info Solutions,Work From Home,3000-6000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Gathering requirements for the projects
+2. Sketching wireframes for the UIs
+3. Creating data models for the product
+4. Managing projects
+5. Performing market competitor analysis"
+57,Data Science,Diebold Nixdorf,Work From Home,5000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Create a data pipeline in Python
+2. Work on data analytics Hive/Python
+3. Build PowerBI dashboard"
+58,Ecommerce & Data Analytics,OpenCubicles Technologies Private Limited,Work From Home,2000 /month +  Incentives,"Selected intern's day-to-day responsibilities include:
+
+1. Conducting extensive online research in the e-commerce domain
+2. Analyzing the websites, online presence, business models and operating processes of various online stores and marketplaces
+3. Conducting online research to identify the latest industry trends, news, business opportunities, and prospective clients in very promising industry verticals internationally
+4. Generating online leads
+5. Working on detailed analysis & technology aspects of e-commerce players
+6. Preparing detailed proposals and reports for prospects & clients"
+59,Advance Analytics (Machine Learning/Artificial Intelligence),8K Miles Software Services Ltd,Work From Home,10000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Study of machine learning/artificial intelligence techniques
+2. Work on benchmarking the performance of Cloud API's
+3. Support development in real-time projects"
+60,Data Science,SkillBit,Work From Home,5000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Working on data science algorithms and AI concepts
+2. Using Python or R for web scraping
+3. Building AI models using Python, machine learning, and deep learning algorithms
+4. Processing of unstructured/structured data"
+61,Web/Data Scraping,Planting Root Technology Private Limited,Work From Home,1500 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Mining data and collecting relevant information/leads
+2. Using automated software to extract data
+3. Fetching the right website and right leads"
+62,Machine Learning,Aditya Malhotra,Work From Home,1000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Work on supporting the development of algorithms
+2. Work on spearheading the documentation for Machine Learning Programs
+3. Work on combining data analytics and ML programs including AI"
+63,Data Annotation Work,Saarthi,Work From Home,8000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Engage in the accurate and efficient annotation of data (text, audio) using provided tools
+2. Write data in multiple languages"
+64,Business Intelligence & Analytics,GRIP At The Sparks Foundation,Work From Home,Unpaid,"Selected intern's day-to-day responsibilities include:
+
+1. Creating linkages between various data within our business intelligence software to enable predictive modeling and sophisticated trend analysis
+2. Producing & improving data visualization for weekly & monthly reporting to management & investors, thereby influencing key business decisions
+3. Designing visualization dashboards to support other TSF teams in monitoring their key KPIs
+4. Overseeing deployment of data to the data warehouse and work with the tech team to optimize the process
+5. Reviewing & validating data received from various sources and implementing controls to enhance data quality"
+65,Data Science & Analytics,GRIP At The Sparks Foundation,Work From Home,Unpaid,"Selected intern's day-to-day responsibilities include:
+
+1.     Write code to collect, crunch and analyze data from various internal and external sources
+2.     Build machine and tune learning models using Python and scikit-learn
+3.     Create linkages between various data within our business intelligence software to enable predictive modeling and trend analysis
+4.     Work in an agile environment as part of an interdisciplinary development team on the implementation of those ideas"
+66,Online Teaching (Data Science),TFA (The Future Access),Work From Home,8000-10000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Planning, preparing, and delivering lessons
+2. Preparing teaching materials
+3. Helping students improve their technical skills in data science and other tools via individual and group sessions
+4. Providing online session needed"
+67,Deep Learning (Machine Learning),Bipolar Factory,Work From Home,20000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Design and develop machine learning algorithms  
+2. Recommend model architecture and dataset for computer vision and text-based use cases
+3. Understand and implement existing deep learning networks on TensorFlow
+4. Evaluate models and export for serving
+5. Own and manage knowledge sharing within a community
+
+Skills Required :
+
+1. Proficiency with a deep learning framework such as TensorFlow
+2. Proficiency with Python
+3. Experience in feature engineering, data visualization, model training, and serving is preferred
+4. Excellent project and time management skills
+5. Attention to detail
+6. Outstanding problem solving and analytical skills"
+68,Business Analytics,Isourse,Delhi,10000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Organizing review meetings with various stakeholders and preparing the business requirement document
+2. Preparing the functional requirement document by coordinating with the software team
+3. Interacting with the customer and conducting requirements gathering
+4. Performing user acceptance testing
+5. Preparing storyboards for CR and new projects
+6. Should have knowledge about software implementation.
+7. Should have knowledge about UAT Testing."
+69,Machine Learning,FOXARCO,Bangalore,7000 /month +  Incentives,"Selected intern's day-to-day responsibilities include:
+
+1. Fulfilling the software/coding based task (ML/Python/Android based) as per the target days on a daily basis
+2. Maintaining and sharing errorlog/other information files, and details  everyday
+3. Attending daily online/offline meeting with seniors on work progress, and daily reporting work progress
+4. Browsing and researching errors/troubleshooting, and new coding work whenever required by team"
+70,Project Development (Home Automation),BrandMore,Work From Home,2000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Develop home automation projects including hardware and software
+2. Develop different projects of home and office automation with the help of Android app and web
+3. Develop IoT and automation projects for police and army
+4. Develop live projects of automation and IoT with AI and ML too"
+71,Artificial Intelligence (AI),Advanto Software,Work From Home,2000-2001 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Conducting research on artificial intelligence integration for assessment
+2. Developing solution for conducting exam using AI"
+72,Machine Learning,KUKbit Software Lab,Work From Home,4000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Analyzing data, developing predictive algorithms, designing, and recommending code algorithms using
+advanced machine learning algorithms
+2. Designing, developing, and testing sales recommendation solutions
+3. Performing explanatory data analysis
+4. Preparing and analyzing data & identifying patterns"
+73,Data Science,Neubrain Solutions Private Limited,Work From Home,1000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Summarizing AI research
+2. Analyzing datasets
+3. Working on data cleaning and orchestrating
+4. Exposing the data as APIs"
+74,Business Analytics And Supply Chain Analyst,KickHead Softwares Private Limited,Work From Home,10000-20000 lump sum,"Selected intern's day-to-day responsibilities include: 
+
+1. Conduct primary and secondary research reviewing online content, market reports, and internal publications to determine market trends, players and products
+2. Support the product team in ideation, streamlining interdependencies, and gauging the business impact
+3. Analyze consumer interactions on the SOLV platform to gain a better understanding of use patterns and propose new features"
+75,Project Analyst,Encriss Technologies LLP,Work From Home,8000 /month +  Incentives,"Selected intern's day-to-day responsibilities include: 
+
+1. Work on in-depth requirement analysis and documentation
+2. Manage success criteria for each module
+3. Work on user sign off on the requirements
+4. Manage test scenario creation
+5. Work on test result analysis and verification (actual testing to be done by testers)
+6. Manage use requirements and scenarios to create user manuals for walkthrough
+7. Wok on user training for using the system once live 
+8. Manage application flow/wireframing
+9. Work on project sign-offs and project history maintenance
+10. Create scenarios for end to end testing of the application
+11. Conduct application training sessions for users post-production and pre-production during UAT
+12. Identify application success criteria for each module and have the same signed off by the users"
+76,VOICE AI & Natural Language Processing,GoVocal.AI,Gurgaon,8000-10000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Work on Machine Learning and natural language processing (NLP) for voice application
+2. Work on implementing NLP engine in the dashboard using Angular 4 and Node.js
+3. Handle other related tasks of full-stack development
+
+Please do not apply if you can not join for minimum 3-4 months full-time internship. No Part time interns are eligible for this. Do not apply if an internship is not part of your curriculum or if you are not passed out already."
+77,Business Analytics,INNATE ALLIANCE,Chennai,8000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Analyze the business 
+2. Prepare decks/presentations and content 
+3. Discuss with an IT person to build the portal
+
+Due to COVID, the candidate can work from home till the lockdown but would be expected to maintain work discipline while working from home. We are looking for a smart intern with a lot of energy and passion to learn and develop market place."
+78,Machine Learning,Add The Money,Work From Home,5000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Work on projects related to machine learning and web development
+2. Interact with clients"
+79,Machine Learning,Farzi Khabr,Work From Home,1000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Develop a WhatsApp bot 
+2. Work on web scrapping & Machine Learning"
+80,Convolution Neural Network,Softsensor.ai,Work From Home,Unpaid,"Generative Adversarial Networks Development from Convolutional Neural Network- Softsensor AI is looking for interns in the area of CNN, GANS, and  AI. 
+
+Selected intern's day-to-day responsibilities include:
+
+1. Building neural network models 
+2. Building data from various sources, researching the academic papers and identify the technology 
+3. Working on solving problems build code and utilize tools like Github, etc. for working
+4. Working with techniques like GANs, CNN and RNN for building solutions to cutting edge problems"
+81,Convolution Neural Network,Softsensor.ai,Work From Home,Unpaid,"Generative Adversarial Networks Development from Convolutional Neural Network- Softsensor AI is looking for interns in the area of CNN, GANS, and  AI. 
+
+Selected intern's day-to-day responsibilities include:
+
+1. Building neural network models 
+2. Building data from various sources, researching the academic papers and identify the technology 
+3. Working on solving problems build code and utilize tools like Github, etc. for working
+4. Working with techniques like GANs, CNN and RNN for building solutions to cutting edge problems"
+82,Business Analytics,Headsup Corporation,Noida,8000-15000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Identify and understand problems through quantitative reporting, research, and analysis
+2. Work closely with clients, gather critical information, and produce useful reports
+3. Undertake primary and secondary market research as required and presents findings"
+83,Machine Learning Research,Nuclei Technologies,Work From Home,1000-5000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Learn about Machine Learning
+2. Help us in our research work on a day to day basis
+3. Read multiple research papers and summarize them
+4. Implement our findings and write code if needed(preferably Python)
+5. Write drafts and work on publications if something materializes
+
+Apply only if,
+Have done research before on Machine Learning and have some experience of doing research under someone or worked at any lab
+Published your work in some conferences or journals and would like to do more along with us"
+84,Data Annotation,Appyhigh Technology LLP,Work From Home,5000-8000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Reviewing, updating, and analyzing labels/predictions created by models
+2. Maintaining logging, tracking, & verifying tasks for AI models & web scrappers
+3. Communicating with developers & data scientists for solving the product issues, & improving the model performance
+4. Joining our engineering team of AI/ML engineers and work on data annotations, testing of our AI products & web scrapers, organizing production releases
+5. Working together with the team to ensure the overall functionality and quality of the models"
+85,STEM Instruction,STEMpedia,Ahmedabad,7000-14000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Conduct webinars on STEM (Graphical Programming, AI, ML, Robotics) for students of grade 3rd - 9th.
+2. Conduct teacher training
+3. Conduct regular classes on Scratch, AI, and ML
+4. Create teaching resources"
+86,Data Analytics,Friends Union For Energising Lives (FUEL),Pune,2000-3000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Interpret data, analyze results using statistical techniques and provide ongoing reports
+2. Develop and implement databases, data collection systems, data analytics, and other strategies that optimize statistical efficiency and quality
+3. Acquire data from primary or secondary data sources and maintain databases/data systems
+4. Identify, analyze, and interpret trends or patterns in complex data sets
+5. Filter and -clean- data by reviewing computer reports, printouts, and performance indicators to locate and correct code problems
+6. Work with management to prioritize business and information needs
+7. Locate and define new process improvement opportunities"
+87,Google API Development,Deepthought Edutech Ventures Private Limited,Work From Home,2000-5000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Understand the EdTech space and the nature of automation in digital classes
+2. Develop a bot that can read crucial information(from defined cells) from google sheets and write the fetched value to defined sheets
+3. Perform analytics through defined algorithm with the help of a read bot and a write bot"
+88,Machine Learning,Techshra,Kurnool,10000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Design experiments and statistical analysis of results
+2. Work on machine learning, algorithms, and computational complexity
+3. Extract, transform and clean large (multi-TB) data sets in a Unix/Linux environment
+
+Skills & Requirements:
+
+1.    Programming skills
+2.    Background in machine learning with domain knowledge and experience in the following areas: data-driven statistical modeling, graphical models, feature extraction and analysis, supervised learning, in particular discriminative methods."
+89,Data Science,Techshra,Kurnool,12500 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Building analytical model
+2. Working on supervised and unsupervised machine learning and neural network techniques
+3. Using statistical and time series techniques
+4. Manipulating data and drawing insights from large data sets"
+90,Data Science,Edure,Kollam,8000-12000 /month,Selected intern's day-to-day responsibilities include learning data science concepts and tools.
+91,Data Analytics,My Vacala Private Limited,Work From Home,3000-6000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Interpreting data, analyzing results using statistical techniques
+2. Acquiring data from primary and secondary sources using data collection systems
+3. Defining user requirements and develop new reports
+4. Maintaining and updating existing reports based on routine schedules"
+92,Business Analytics,Indus Valley Home Accessories,Work From Home,10000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Identify business/industry trends in consumer lifestyle and technology; scan competitive landscape; analyze consumer data
+2. Facilitate workout problem-solving sessions with functional leaders across the organization
+3. Prepare and deliver insights and recommendations based on analysis"
+93,Python Development-Data Science,Industry360,Gurgaon,10000-20000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Imparting Python training to the staff
+2. Imparting Python training to schools 
+3. Imparting Python training to colleges
+4. Imparting python training to corporates 
+5. Preparing Python-based videos
+6. Preparing Python-based blogs
+7. Preparing Python-based tutorials
+8. Preparing engagement material for the Python community
+9. Handling vision towards data science
+10. Learning of algorithm"
+94,Data Analytics,D'Well Research,Work From Home,2000-5000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Designing and maintaining data systems and databases
+2. Mining data from primary and secondary sources, then reorganizing said data in a format that can be easily read by either human or machine
+3. Using statistical tools to interpret data sets, paying particular attention to trends and patterns that could be valuable for diagnostic and predictive analytics efforts
+4. Preparing reports for executive leadership that effectively communicate trends, patterns, and predictions using relevant data
+5. Collaborating with programmers, engineers, and organizational leaders to identify opportunities for process improvements, recommend system modifications, and develop policies for data governance
+6. Creating appropriate documentation that allows stakeholders to understand the steps of the data analysis process and duplicate or replicate the analysis if necessary"
+95,Data Science Research,Data Folkz,Delhi,8000-15000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Understand the audience and execute targeted efforts to cater to their needs
+2. Monitor daily engagement on the product from this audience
+3. Support for data science questions and queries
+4. Create strategies that build loyalty, brand recognition, and customer satisfaction"
+96,Data Analytics,Polstrat,Work From Home,5000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Aiding the data and research teams in conducting research
+2. Analyzing trends at national and local levels
+3. Aiding in the administrative processes of the organization
+4. Assisting in data cleaning and processing
+5.Proficient in Python Libraries like Pandas,Numpy,Matplotlib,Geopandas and Scikit-Learn"
+97,Data Analytics,Nuvoretail,Work From Home,10000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Working on data analytics, statistical data analysis, Python, Power BI and advanced Excel 
+2. Working with basic ETL tools like Talend, Informatica, and Alterix
+3. Handle the huge amounts of data along with applying logical operations for seamless data management.
+4. Develop solutions in ETL tools to gather, transform, and load data into the databases
+5. Work with multiple tools and databases and be able to forecasting and make the algorithm for predictions based on data sets"
+98,Data Analytics And Data Collection,Shipmart Tech Private Limited,Kolkata,3000 /month +  Incentives,"Selected intern's day-to-day responsibilities include: 
+
+1. Collect data for the product development
+2. Perform a market study of user behavior
+3. Work as a part of the core team and contribute actively in product development"
+99,Data Science and Scoring,MoneyMall,Work From Home,4000-7000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Leverage a unique, diverse, and deep data set to find connections across these data sources and communicate findings to the team and integrate them into models
+2. Own the full-cycle of a model from ideation and training through deployment into our production environment (this might be a credit model, fraud model, marketing model, or an iteration of an existing model)
+3. Contribute and share your findings and knowledge of data science and another modelling with all appropriate cross-functional teams
+4. Partner with the engineering team to develop, test and deploy models
+5. Pull data from MySQL or other data stores, handle all the ETL from the DB to running the model to obtaining a decision"
+100,Business Analytics,Fexmy.co,Bangalore,5000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Driving business performance reporting and facilitating team reviews weekly, monthly, and quarterly
+2. Performing analysis to identify new trends and opportunities necessary to inform strategic planning for stakeholders
+3. Analyzing and solving business problems at their root, stepping back to understand the broader context
+4. Under guidance, executing data representation, and advanced visualizations starting from data gathering, processing and publishing
+5. Under guidance, developing quantitative models necessary for evaluation and implementation of new strategies with business stakeholders"
+101,Machine Learning,SkillBit,Pune,5000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Analyzing data, developing predictive algorithms, designing, and recommending code algorithms using
+advanced machine learning algorithms
+2. Designing, developing, and testing sales recommendation solutions
+3. Performing explanatory data analysis
+4. Preparing & analyzing data and identifying patterns"
+102,Data Science,KUKbit Software Lab,Pune,15000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Working on data science algorithms and AI concepts
+2. Using Python or R for web scraping
+3. Building AI models using Python, machine learning, and deep learning algorithms
+4. Processing of unstructured/structured data"
+103,Data Science,Amero Research & Loyalty Solutions Private Limited,Ahmedabad,3500 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Working with Python and libraries like NumPy, SciPy, Pandas, Scikit-learn, Tensorflow, etc. 
+2. Working with large data-sets"
+104,ChatBot Development,CivilCops,Work From Home,6000-12000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Developing chatbots and voice assistant on various platforms for diverse business use-cases
+2. Working on a chatbot framework/architecture using an open-source tool or library especially Rasa or Dialogflow
+3. Implementing natural language processing (NLP) for chatbots
+4. Integrating chatbots with management dashboards and CRMs
+5. Resolving complex technical design issues by analyzing the logs, debugging code and identifying technical issues/challenges/bugs in the process
+6. Deploying applications using CI/CD tools
+7. Designing and building highly scalable AI and ML solutions
+8. Understanding business requirements and translating them into technical
+requirements
+9. Coming up with new approaches and ideas to improve the current performance of chatbots across multiple domains and build a highly personalized user experience"
+105,Research Analysis,Decimal Point Analytics Private Limited,Work From Home,10000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Collating market intelligence and data on economies as well as various financial markets
+2. Assisting the research analysts in writing reports on various companies, commodities, markets, and economies
+3. Working with artificial intelligence/machine learning experts to develop innovative and automated research solutions"
+106,Data Science,KickHead Softwares Private Limited,Work From Home,10000-20000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Prepare data models
+2. Collaborate with the product team
+3. Develop algorithms"
+107,Data Analytics,Aine Info Tech Private Limited,Work From Home,8000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Create KPIs based models and strategic analytics to solve key business opportunities
+2. Work on creating analytical products & data visualization
+3. Create meaningful and insightful reports using powerful visualization techniques and infographic tools
+4. Work on Advanced Excel, Python, SQL for the execution of the development, validation, and implementation of statistical projects
+5. Power in-depth strategic analysis and provide analytical and decision support"
+108,Data Analytics,Provenance Analytics,Vapi,2000-4000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Handling web scraping
+2. Writing efficient text processing program 
+3. Working with the team to achieve the desired output"
+109,Data Analytics,Priyanka Mechineni,Work From Home,5000 /month +  Incentives,"Selected intern's day-to-day responsibilities include: 
+
+1. Work on validation of a start-up idea
+2. Research data to be analyzed and make a meaningful recommendation"
+110,Machine Learning,Tika Data Services Private Limited,Bangalore,10000-18000 /month,"The internship is in Summer 2020 (May - July 2020)
+
+Selected intern's day-to-day responsibilities include: 
+
+1. Assist in prototyping machine learning algorithms for image classification
+2. Assist in prototyping machine learning algorithms for text analysis
+3. Integration of ML algorithm into existing tool frameworks"
+111,Data Annotation,Tika Data Services Private Limited,Bangalore,5000-8500 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Engage in the accurate and efficient annotation of data (image, text, audio, signal) using provided tools
+2. Engage in data entry
+3. Participate in psychology experiments for data annotation performance studies"
+112,Machine Learning (NLP),HEURO,Work From Home,1000-4000 /month,Selected intern's day-to-day responsibilities include working in a team to build the innovative NLP based machine learning model.
+113,Machine Learning,Episodiclabs Private Limited,Ahmedabad,5000-10000 /month,"Selected intern's day-to-day responsibilities include understanding and implementing test models in TensorFlow, Caffe, etc."
+114,Machine Learning,RedCarpetUp,Work From Home,15000-20000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Working on data normalization in core NumPy/Pandas and Tensorflow
+2. Working on regression testing using PyTest
+3. Working on regular metric computation and monitoring like Kolmogorov-Smirnov test, AUC, ROC, etc.
+4. Working on result visualization in Bokeh"
+115,Machine Learning,Mavenai Technologies LTD,Work From Home,5000-8000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Work on Arabic documents
+2. Handle annotation of Arabic documents
+3. Work with a team of machine learning engineer
+
+Arabic reading skills is mandatory for applicants."
+116,Data Science,Aramse Technologies Private Limited,Work From Home,10000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Selecting features, building and optimizing classifiers using machine learning techniques
+2. Data mining using state-of-the-art methods
+3. Extending the company's data with third party sources of information when needed
+4. Enhancing data collection procedures to include information that is relevant for building analytic systems
+5. Processing, cleansing, and verifying the integrity of data used for analysis
+6. Working on ad-hoc analysis and presenting results in a clear manner
+7. Creating automated anomaly detection systems and constant tracking of its performance"
+117,Machine Learning And Python,Aine Info Tech Private Limited,Work From Home,11500 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Develop engineering applications related to data mining, computer vision, and natural language processing
+2. Write code that is well designed, scalable and produce deliverable results
+3. Work on ML algorithms, their fundamentals, and mathematical underpinnings
+4. Effectively communicate results/findings through data visualization"
+118,Machine Learning,Pytholabs,Work From Home,3000-5000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Working on projects based on data science, machine learning, and artificial intelligence
+2. Working on industry-specific problems with data
+3. Coordinating with top influencers in the community 
+4. Working on the learning flow and refining the ML models
+5. Curating bit-sized application based short courses (refer to our website)"
+119,Artificial Intelligence (AI) & Machine Learning (ML),AARHAT ISERV LLP,Jamshedpur,5000-10000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Develop transformative AI solutions to address our business requirements and challenges
+2. Understand the latest industrial and academic developments in AI/ML, application in diverse domains and user experience for next-generation devices and create prototypes for demonstration
+3. Conceptualize, design, build and develop prototypes that demonstrate the required functionality rapidly
+4. Collect, propose requirements and create an effective product/feature roadmap
+5. Work with development teams to mature these algorithms into production-quality programs
+6. Perform applied research on a wide array of text analytics and machine learning projects, file patents and publish the papers
+
+(We would like you to study and present a brief research on how AI & ML can be used in the health care and education industry)"
+120,Data Science/Machine Learning,Process Nine Technologies Private Limited,Work From Home,5000-8000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Work on machine translation in Indian languages
+2. Manage chatbots and voice bots in Indian languages"
+121,Business Analysis,Signzy,Bangalore,20000 /month +  Incentives,"Selected intern's day-to-day responsibilities include:  
+
+1. Diagnosing and troubleshooting technical issues 
+2. Researching and identifying solutions to software issues
+3. Asking targeted questions to customers to quickly understand the root of the problem
+4. Speaking to the client on phone, email or chat, until their technical issue is solved
+5. Escalating unresolved issues to appropriate internal teams 
+6. Documenting technical knowledge in the form of notes and manuals"
+122,Quant Research,AsknBid Tech,Work From Home,10000-20000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Develop strategies that predict future returns by investigating and implementing recent academic research
+2. Apply AI/ML techniques for strategy discovery, portfolio optimization, and risk management
+3. Develop algorithms to filter and combine trade strategies
+4. Optimize the framework for creating, backtesting and deploying trade strategies"
+123,Cognitive Computing,GoOffer Hyperlocal Private Limited,Work From Home,5000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Working on cognitive computing & the Internet of Things
+2. Working on cognitive computing & Big Data analysis
+3. Working on cognitive computing & Cloud Computing
+4. Working on cognitive computing & reinforcement learning
+5. Working on cognitive computing & deep learning
+6. Working on cognitive computing & image understanding"
+124,Business Analytics,PlanyrTrip,Work From Home,5000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Assisting in business cases
+2. Analyzing business problem
+3. Simplifying the critical process"
+125,Investment Relationship,BuzzMentr,Bhubaneswar,2000 /month +  Incentives,"Selected intern's day-to-day responsibilities include:
+
+1. Shortlist the investor according to company working module
+2. Approach and interact with the investors on behalf of the company
+3. Share weekly report on the progress of work"
+126,Data Science And Machine Learning/AI,Mind Mapperz,Work From Home,3000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Working on projects based on data science, machine learning, and artificial intelligence
+2. Working on the implementation of research and methodology to change the business processes to provide new capabilities to the education domain
+3. Working on industry-specific problems with data"
+127,Data Validation,Accrete LLC,Work From Home,10000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Researching complex financial and economic topics
+2. Collaborating with domain experts on projects
+3. Working with the latest AI technology and the exceptional people making it a reality
+4. Providing feedback to the machine learning model
+5. Validating outputs from current models and suggesting improvements"
+128,Machine Learning,Smartknower,Work From Home,5000-7000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Working on algorithms designing and developing in machine learning
+2. Discovering, designing, and developing analytical methods to support novel approaches of data and information processing"
+129,Python/Machine Learning/Data Science Development,Huzaif Sayyed,Work From Home,30000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Work on Python module
+2. Debug and solve problem
+3. Develop product using Python and machine learning
+4. Train models"
+130,Machine Learning,W3Dev,Work From Home,5000-7000 /month,"Selected intern's day-to-day responsibilities include building and testing classifiers for topic labeling, sentimental analysis, and intent detection."
+131,Machine Learning,SJTech Solutions,Work From Home,2500-3500 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Working on live projects of data analytics
+2. Developing deep learning and machine learning algorithms
+3. Working on supervised and unsupervised learning algorithms"
+132,Machine Learning,Revelin7 Technology Private Limited,Chandigarh,10000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Going through research papers and working on the algorithm for a stated problem
+2. Attending daily brainstorming sessions with a task to complete the whitepaper
+3. Implementing algorithms and writing programs"
+133,Data Analytics,Mirchi Fashion,Work From Home,5000-10000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Providing expertise in data mining, and data cleansing for an e-commerce brand
+2. Translating numbers and facts to inform strategic business decisions
+3. Analyzing sales figures, market research, logistics, or transport data
+4. Creating and following processes to keep data confidential
+5. Coming up with solutions to costly business problems"
+134,Business Analytics,SoluLab,Work From Home,7000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Determine operational objectives by studying business functions, gathering information, evaluating output requirements and formats
+2. Construct workflow charts and diagrams, study system capabilities and write specifications
+3. Improve systems by studying current practices and designing modifications
+4. Define project requirements by identifying project milestones, phases and elements, forming project teams and establishing the project budget
+5. Monitor project progress by tracking activity, resolving problems, publishing progress reports and recommending actions
+6. Maintain user confidence and protect operations by keeping information confidential
+7. Prepare technical reports by collecting, analyzing and summarizing information and trends"
+135,Data Science,EMVOKE TECHNOLOGIES PRIVATE LIMITED,Work From Home,5000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Creating models, optimizing them, and applying transfer learning
+2. Training and deploying models at scale using pipelines
+3. Working on fine-tuning hyperparameters 
+4. Creating models for both server-side computing and the edge"
+136,Data Science,Reach Technologies,Work From Home,5000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Implementing pilots to enable user data analytics (e.g. user acquisition, user churn, number of views, revenue per segment, etc. ) and  related data 
+2. Working on the visualization for a large online Multi-Sided Platform (MSP)"
+137,Data Science,SkillBit,Pune,5000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Working on data science algorithms and AI concepts
+2. Using Python or R for web scraping
+3. Building AI models using Python, machine learning, and deep learning algorithms
+4. Processing of unstructured/structured data"
+138,Research Analytics,GoOffer Hyperlocal Private Limited,Work From Home,5000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Work on projects including developing content, and drafting the research paper.
+2. Expand documentation in response to researchers' needs and develop use cases to inform new service development w.r.to. Industry."
+139,Machine Learning (Computer Vision),HEURO,Work From Home,1500-5000 /month,"Selected intern's day-to-day responsibilities include performing a small chunk of machine learning project jobs like fine-tuning of a model, modular ML, etc."
+140,Equity Research Analysis,Value Educator,Work From Home,5000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Initiating research analysis on different stocks
+2. Attending conference call and writing quarterly reports 
+3. Tracking various sectors and writing reports on it"
+141,Data Science,Grapevine,Work From Home,3000-5000 /month,"Selected intern's day-to-day responsibilities include:
+
+1. Collecting data on consumers, competitors and market place and consolidating information into actionable items, reports, and presentations
+2. Understanding business objectives of Grapevine and its clients and designing surveys to discover prospective customers' preferences
+3. Compiling and analyzing statistical data using modern and traditional methods to collect it
+4. Processing the data on a day to day level for the team and converting them into actionable insight
+5. Working on partnerships to grow the sample size in quality and quantity"
+142,Data Science,ValueAdd Research & Analytics Solutions,Work From Home,10000 /month,"Selected intern's day-to-day responsibilities include:
+
+1.     Scope out the research assignments/projects independently
+2.     Meet and surpass the client expectations
+3.     Support on any other client engagements, as required
+4.     Take responsibility for delivery on live client projects across industries and regions
+5.     Take responsibility for building, expanding and optimizing our data models, prediction algorithms correlation algorithms as well as text analytics models
+6.     Build useful tools to automate and make internal systems and processes more efficient
+7.     Contribute towards building in-house product initiatives
+8.     Deliver and achieve 100% client satisfaction
+9. Handle marketing, business development, and organization development support
+10.     Provide support on collaterals and samples
+11.     Contribute towards marketing and leadership content"
+143,Business Analytics,Emoha Eldercare,Work From Home,10000-15000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Doing business analysis
+2. Handling data interpretation
+3. Working on dashboard preparation
+4. Doing financial analysis
+5. Working on strategy planning"
+144,Stock Market Analytics,Aviaan,Work From Home,5000-10000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Research trending shares
+2. Analyze the charts, news, etc.
+3. Shortlist good shares for clients"
+145,Data Science On Django,Markytics,Work From Home,1000-2000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Build a data analysis platform on Django
+2. Build ML models to analyze data and send insights to customers"
+146,Big Data Development/Data Science,Cessini Technology Private Limited,Kolkata,10000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Work on Python and C/C++
+2. Work on big data and distributed technologies, such as Kafka, Apache Spark, etc.
+3. Work on RDBMS such as PostgreSQL, and non-RDBMS such /Cassandra/MongoDB
+4. Work on elastic search and data streaming
+5. Handle AI & ML"
+147,AI & ML Computer Vision & Robotics,Alphabt,Chennai,5000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Applying latest research in deep learning & neural network techniques to interface with robotic computer vision & automation
+2. Collaborating with other teams to understand the requirements and implement them in the product
+3. Conducting design and coding reviews
+4. Analyzing and improving efficiency, scalability, and stability of various AI &  ML modules
+5. Working on the bridging the gap between the latest in deep learning research and its application in real-world products"
+148,Machine Learning,Jan Elaaj,Delhi,2500 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Research and extract features
+2. Work on model fitting
+3. Define performance indices
+4. Deploy the model"
+149,Data Engineering,Digite Incorporated,Work From Home,20000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1.     Create and maintain optimal data pipeline architecture using Scala or Python and Spark, Kafka
+2.     Assemble large, complex data sets that meet functional / non-functional business requirements
+3.     Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+4.     Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL on Cloud    big data' technologies
+5.     Work with stakeholders including the executive, product, data science, and design teams to assist with data-related technical issues and support their data infrastructure needs
+6.     Work with data and analytics experts to strive for greater functionality in our data systems"
+150,Analyst,eWards,Kolkata,5000-8000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Sourcing data from various teams & individuals and preparing MIS for the management.
+2. Analysing the data and reporting the analysis to the management by preparing presentations.
+3. Proficient in Microsoft Office (especially Excel and Power Point) and Gsheets.
+4. Must be a team worker.
+5. Ability and zeal to google information for research work and being self motivated at work is a must."
+151,Data Analytics,TrendyDice,Work From Home,5000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Working on data wrangling using Python, pandas
+2. Handling Excel-based analysis
+3. Working on basic linear regression"
+152,Data Analytics,SkyQuest Technology Consulting Private Limited,Work From Home,1000 /month,"Roles and Responsibilities
+
+    Interpret data, analyze results using statistical techniques and provide ongoing reports.
+    Have to do data visualisation and Predictive factor analysis.
+    Develop and implement databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality
+    Acquire data from primary or secondary data sources and maintain databases/data systems
+    Identify, analyze, and interpret trends or patterns in complex data sets
+    Filter and -clean- data by reviewing computer reports, printouts, and performance indicators to locate and correct code problems
+    Work with management to prioritize business and information needs
+    Locate and define new process improvement opportunities"
+153,Question Paper Analytics,Test Mandi,Work From Home,8000 /month,"Selected intern's day-to-day responsibilities include: 
+
+1. Create new, innovative and tough questions in above-mentioned topics 
+2. Create a feature
+3. Check the toughness of the current question and help in extracting the feature of the question"
+154,Advanced Deep Learning AI,Busigence Technologies,Work From Home,7000 /month +  Incentives,"Selected intern's day-to-day responsibilities include: 
+
+1. Understanding the research paper/pseudo code/other's GitHub code
+2. Developing/Converting the above documents in Python3/TensorFlow/PyTorch
+3. Working on model development in advanced neural networks (image/video/audio/speech/text) - CNNs/ RNNs/ Custom ANNs/ GANs/ Transformers
+
+(There shall be two projects/problems per month. This is an advanced internship. You won't be able to clear even Round 1 if you are not strong on neural networks.)"
+155,Research & Case Studies (Data Science&AI),Busigence Technologies,Work From Home,6000 /month +  Incentives,"Selected intern's day-to-day responsibilities include:
+
+1. Researching on various subjects and topics on data science and AI and producing knowledgable content for customers based on research
+2. Understanding businesses and problems faced by them and how AI/ML can solve these problems
+3. Formulating business problem through data science and machine learning
+4. Researching and strategizing a solution
+
+(You shall have two projects in one month's time. The target for the project shall be handed over to you at start of the project. This is a remote internship, so you need to be self-motivated and dedicated requiring minimum follow-ups and no spoon-feeding. Though we shall conduct regular training sessions to guide you on each project's tasks.)"
